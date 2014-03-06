@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  ap_pat: MyString
+  ap_mat: MyString
+  matricula: MyString
+
+two:
+  nombre: MyString
+  ap_pat: MyString
+  ap_mat: MyString
+  matricula: MyString

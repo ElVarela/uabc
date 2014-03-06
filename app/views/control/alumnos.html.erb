@@ -1,0 +1,11 @@
+<p>Listado</p>
+<ul>
+	<% for alumno in @alumnos %>
+	    <li>
+		    <h3><%= alumno.nombre %></h3>
+		    <p><%= alumno.ap_pat %></p>
+		    <p><%= alumno.ap_mat %></p>
+		    <p><%= alumno.matricula %></p>
+	    </li>
+	<% end %>
+</ul>
